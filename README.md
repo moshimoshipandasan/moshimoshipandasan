@@ -16,7 +16,7 @@ GitHub上では、授業用の教材やAIを活用したプロトタイプ開発
 
 ## 📫 連絡先
 - Website: [GIGAch (YouTube)](https://www.youtube.com/@gigach)  
-- Email: ando@bazaarjapan.com  
+- Email: gigaschool2020@gmail.com  
 
 ---
 
